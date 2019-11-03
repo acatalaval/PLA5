@@ -7,13 +7,13 @@ public class Cesar implements ICodificar {
 
 	
 	public String codificar(String cadena) {
-		// TODO Auto-generated method stub
+		// Falta configurar función correcta (falta de tiempo)
 		return "Codifica tipo Cesar";
 	}
 
 	
 	public String decodificar(String cadena) {
-		// TODO Auto-generated method stub
+		// Falta configurar función correcta (falta de tiempo)
 		return "Decodifica tipo Cesar";
 	}
 

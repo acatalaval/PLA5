@@ -13,7 +13,7 @@ public class Bloques implements IProcesar {
 	}*/
 	
 	public ArrayList<String> dividir(String cadena) {
-		// TODO Auto-generated method stub
+		// Falta configurar esta función (falta de tiempo)- hecho provisional
 		//ArrayList<String> alistBloques= new ArrayList<String>("Divide la cadena en bloques de 4"); // creamos ArrayList para las palabras
 		ArrayList<String> alistBloques=new ArrayList<String>();
 		String[] f=cadena.split("\\.");
@@ -25,7 +25,7 @@ public class Bloques implements IProcesar {
     
 	@Override
 	public String unir(ArrayList<String> cadenas) {
-		// TODO Auto-generated method stub
+		// Falta configurar esta función (falta de tiempo)
 		return "Une bloques";
 	}
 

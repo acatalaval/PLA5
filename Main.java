@@ -27,7 +27,11 @@ public class Main {
 				
 				System.out.println(misPalabras.unir(misPalabras.dividir(cadena))); */
 				
+				// Pedir el bean
+				
 				Codificador miCodificador = context.getBean("codificador", Codificador.class);
+				
+				// Ejecutar algún método
 				
 				System.out.println("Escribe una frase: ");
 				

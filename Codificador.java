@@ -24,7 +24,7 @@ public class Codificador {
 		_procesar=procesar;
 	}*/
 	
-	public String codificar(String cadena) {
+	public String codificar(String cadena) { //función no correcta del todo, pero válida para entender funcionamiento Spring annotations
 		
 		System.out.println("Fc. codificar muestra primero cadena. "+ cadena);
 		System.out.println("Fc. codificar divide cadena: " + (_procesar.dividir(cadena)));
